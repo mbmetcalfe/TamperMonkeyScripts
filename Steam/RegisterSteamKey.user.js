@@ -6,6 +6,7 @@
 // @author          That Guy (https://github.com/mbmetcalfe)
 // @include         https://www.indiegala.com/profile/*
 // @include         https://www.reddit.com/*
+// @icon            https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/2000px-Steam_icon_logo.svg.png
 // @grant           GM_openInTab
 // @run-at          context-menu
 // ==/UserScript==]
